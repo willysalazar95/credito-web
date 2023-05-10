@@ -2,10 +2,8 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import './Trabajos.css';
-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDesktop, faPalette, faGlobe } from '@fortawesome/free-solid-svg-icons';
-import { faLaptopCode } from '@fortawesome/free-solid-svg-icons';
 
 const Services = () => {
     return (

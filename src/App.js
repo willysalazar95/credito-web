@@ -11,6 +11,9 @@ import './Footer.js';
 import Contactos from './Contacto.js';
 import './Contacto.css';
 
+import Personas from './Personas';
+import './Personas.js';
+
 function App() {
   return (
     <div className="App">
@@ -22,6 +25,9 @@ function App() {
       </div>
       <div className="about-us-container">
         <AboutUs />
+      </div>
+      <div className="about-us-container">
+        <Personas />
       </div>
       <div className="services-container">
         <Trabajos />

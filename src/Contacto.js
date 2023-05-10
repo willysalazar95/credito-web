@@ -3,9 +3,9 @@ import './Contacto.css';
 
 function Header() {
   return (
-    <div className="section-title">
+    <div className="section-titlee">
       <h2>Somos una empresa creativa de servicio completo.</h2>
-      <h3>Nuestro equipo de diseñadores, desarrolladores y creativos son perfeccionistas que aman lo que hacen y aman el lugar donde trabajan.</h3>
+      <p>Nuestro equipo de diseñadores, desarrolladores y creativos son perfeccionistas que aman lo que hacen y aman el lugar donde trabajan.</p>
     </div>
   );
 }
