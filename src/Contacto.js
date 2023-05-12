@@ -14,7 +14,8 @@ function Contactos() {
   return (
     <div>
       <Header />
-      <div className="contact-container">
+      
+      <div id="contac" className="contact-container">
         <div className="contact-card">
           <h3 className="card-title">Nuestras Ubicaciones</h3>
           <p>110 W 34th St, NYC.</p>

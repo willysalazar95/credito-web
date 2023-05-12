@@ -6,15 +6,15 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 50px 0;
+  padding: 0px 0px;
 }
-.services-container h2 {
+.service-titulo_sub h2 {
   font-size: 36px;
   font-weight: 700;
   color: #333;
   margin-bottom: 20px;
 }
-.services-container p {
+.service-titulo_sub p {
   font-size: 18px;
   color: #777;
   margin-bottom: 50px;

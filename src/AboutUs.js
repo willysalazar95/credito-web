@@ -5,7 +5,7 @@ import imgTeam from "./aboutus2.jpg";
 
 function AboutUs() {
   return (
-    <div className="aboutus">
+    <div id="Nosot" className="aboutus">
       <div className="aboutus__header">
         <h2>Somos una agencia creativa de servicio completo.</h2>
         <p>Nuestro equipo de diseñadores, desarrolladores y creativos son perfeccionistas que aman lo que hacen y aman</p>

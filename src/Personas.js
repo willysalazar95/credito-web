@@ -8,7 +8,7 @@ import imagen4 from './imagesteam-4.png';
 const Personas = () => {
   return (
     <div>
-      <div className="container-texto">
+      <div id="Equi" className="container-texto">
       <h2>Nuestro equipo más calificado</h2>
       <p>Obtenga la dirección correcta para su empresa con nuestros mejores profesionales.</p>
       </div>

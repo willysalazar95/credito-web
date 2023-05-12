@@ -8,8 +8,10 @@ import { faDesktop, faPalette, faGlobe } from '@fortawesome/free-solid-svg-icons
 const Services = () => {
     return (
         <div>
+          <div id="serv" className="service-titulo_sub">
           <h2>En estas tecnologías te podemos ayudar</h2>
           <p>Las innovaciones tecnológicas más prometedoras para el futuro: de la realidad aumentada al internet de las cosas</p>
+          </div>
           <div className="services-container">
             <Card className="service-card">
               <Card.Body>
